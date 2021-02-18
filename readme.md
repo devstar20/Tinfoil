@@ -68,4 +68,29 @@ bifiFarm: '0x1651942678b809A815A321C40dA0569d1F04AC57'
 tinFarm: '0x2219a6e2b0b26223c222899b198503ff2c58e1a7'
 
 
+
+Receipt tokens:
+-------------------------
+
+tTIN token: 0x245bd99380bdF2908ccDa4fD4b7ebD666756c926
+
+tCAKE token: 0xD4a623c641506DC866138C7af024387458d84728
+
+tBake Token: 0xd27bcA1375b6660B1F0f206ffa95c029c0c51d36
+
+tAUTO token: 0xea816384cC6F339eAd9C99e5F3Ddc1035b262e0f
+
+tXvs token: 0x76528a1A247D7fc26f78eA33D078f7BbF88c1d49
+
+tBunny token: 0x4232884910446409Bace4116ee8E6809c35B0178
+
+tBurger token: 0x2974eA405E4e0EF5E1284C5462d5143385D7E7e4
+
+twSote token: 0x001B0A26E780cFEdC7fEc085c685a91302834c23
+
+tBifi token: 0x053b8fD5b8da31eDA20c62Ed0B4Efc9f7E3A2009
+
+
+* make sure you don't trade these, otherwise you won't be able to leave a farm
+
 Check them on: https://bscscan.com/
