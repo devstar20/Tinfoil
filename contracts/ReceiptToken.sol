@@ -3,6 +3,11 @@ pragma solidity ^0.6.2;
 import "@openzeppelin/contracts/access/AccessControl.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
+// This contract is used for printing receipt tokens
+// Whenever someone joins a pool, a receipt token will be printed for that person
+// tCake for Cake
+// tBake for Bake
+// .. and others
 contract ReceiptToken is ERC20, AccessControl {
     bytes32 public constant MINTER_ROLE = keccak256("MINTER_ROLE");
     bytes32 public constant BURNER_ROLE = keccak256("BURNER_ROLE");

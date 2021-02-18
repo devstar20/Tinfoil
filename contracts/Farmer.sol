@@ -7,6 +7,9 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "./interfaces/IFarmer.sol";
 import "./Farm.sol";
 
+// This contract aggregates more similar farms
+// Easier for the UI to get all the things needed 
+// Easier for the users to interact with farms
 /** @title BSC Farmer */
 contract Farmer is Ownable, IFarmer {
     mapping(address => address) public farms;

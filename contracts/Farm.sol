@@ -9,7 +9,11 @@ import "./interfaces/ILock.sol";
 import "./Vault.sol";
 import "./ReceiptToken.sol";
 
-//cread based on AMPL Token Geyser
+// cread based on AMPL Token Geyser
+// You get rewards based on the time you have in the farm and based on others' shares
+// Get more rewards by joining with larger amounts and by keeping them here for longer
+// You get TIN as a reward
+// You also get a receipt token in return as a farming proof
 contract Farm is ILock, Ownable {
     using SafeMath for uint256;
     event ReceiptMinted(address indexed user, uint256 amount);
