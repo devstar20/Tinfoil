@@ -682,6 +682,7 @@ contract Farm is ILock, Ownable {
         address to,
         uint256 amount
     ) public onlyOwner returns (bool) {
+        require(address(_farmingVault.token()) != otherToken);
         return _farmingVault.rescueOthers(otherToken, to, amount);
     }
 
