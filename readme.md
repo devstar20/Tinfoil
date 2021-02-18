@@ -7,6 +7,14 @@ https://app.gitbook.com/@tinfoilfi/s/tinfoil-finance/
 
 
 
+Overview
+-------------------------
+
+Decentralized Finance (DeFi) has revolutionized the financial technology industry, providing users with more ways to invest and generate value than ever before. Yield aggregation in particular is a rising practice, making use of existing DeFi yield-generating protocols as well as prompting the development of additional yield aggregator projects. 
+Tinfoil Finance provides a method for automating, carrying out, and improving yield compounding via the Binance Smart Chain ecosystem and the PancakeSwap protocol. This vastly simplifies yield aggregating, reduces gas fees, and enables individuals of all ranges of DeFi experience and available capital to benefit from the process.
+Tinfoil Finance can be used for a multitude of yield farming purposes, including those seeking maximal yields and those seeking to balance risks and rewards. Thus, we aim to promote additional value and support to the underlying DeFi ecosystem.
+
+
 
 Deployed farms (active):
 -------------------------
